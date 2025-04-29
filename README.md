@@ -1,4 +1,4 @@
-# Two-Wheeled Balancing Robot Simulation 🤖🛞
+# Two-Wheeled Balancing Robot Simulation
 
 ## Overview
 This project involves designing and building a **Two-Wheeled Self-Balancing Robot** to transport water bottles autonomously in an office environment. The robot uses a combination of a **PID control system**, **MPU6050 IMU sensor**, **ultrasonic sensors**, and a **Bluetooth interface** for stability and navigation.
