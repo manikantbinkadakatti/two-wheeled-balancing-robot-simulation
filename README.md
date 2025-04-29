@@ -61,10 +61,6 @@ two-wheeled-balancing-robot-simulation/
 5. Tune the PID constants (`Kp`, `Ki`, `Kd`) for optimal balancing.
 6. Test the robot on flat ground, then gradually introduce obstacles.
 
-## Screenshots
-![Conceptual Design](docs/conceptual_design.jpg)
-![Control System Diagram](docs/control_system_diagram.jpg)
-![CAD Model](cad_models/chassis_design.png)
 
 ## Future Improvements
 - Add LIDAR for better mapping and navigation.
